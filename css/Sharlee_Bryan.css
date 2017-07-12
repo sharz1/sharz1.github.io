@@ -1,0 +1,27 @@
+body{
+  font-family: 'Titillium Web', sans-serif;
+  background: #c2ced1;
+} 
+h2 {
+  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-weight: 100;
+  color: #04918f;
+  text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.navbar{
+    display: block;
+}
+
+.fa-facebook-square {
+    color: #3B5998;
+}
+.fa-envelope-o {
+    color: Gray;
+}
+.fa-github {
+    color: black;
+}
