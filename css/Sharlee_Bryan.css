@@ -12,12 +12,12 @@ img {
     display: block;
     margin: auto;
 }
-.navbar{
+.navbar {
     display: block;
 }
 
-#contact{
-    font-size: 200%;
+#contact {
+    font-size: 3em;
 }
 
 .fa-facebook-square {
