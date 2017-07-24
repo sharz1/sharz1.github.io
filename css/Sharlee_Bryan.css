@@ -16,6 +16,10 @@ img {
     display: block;
 }
 
+#contact{
+    font-size: 200%;
+}
+
 .fa-facebook-square {
     color: #3B5998;
 }
