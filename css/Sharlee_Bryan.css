@@ -16,6 +16,12 @@ img {
     display: block;
 }
 
+<<<<<<< HEAD
+=======
+#contact {
+    font-size: 2em;
+}
+>>>>>>> e3b3ac122429f20227c5a804c4e7737d5f86d83c
 
 .fa-facebook-square {
     color: #3B5998;
@@ -26,6 +32,7 @@ img {
 .fa-github {
     color: black;
 }
+<<<<<<< HEAD
 
 my-email::after {
     content: attr(data-domain);
@@ -34,3 +41,5 @@ my-email::before {
     content: attr(data-user) "\0040";
 }
 
+=======
+>>>>>>> e3b3ac122429f20227c5a804c4e7737d5f86d83c
