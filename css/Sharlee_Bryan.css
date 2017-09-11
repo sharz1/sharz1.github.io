@@ -13,6 +13,10 @@ img {
 	margin: auto;
 }
 
+#Summary {
+	font-size: 1.5em;
+}
+
 #profile_pic {
     display: block;
 	height: 300px;
