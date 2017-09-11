@@ -8,9 +8,13 @@ h2 {
   color: #04918f;
   text-align: center;
 }
+
+img {
+	margin: auto;
+}
+
 #profile_pic {
     display: block;
-    margin: auto;
 	height: 300px;
 }
 .navbar {
