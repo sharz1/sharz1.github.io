@@ -8,12 +8,18 @@ h2 {
   color: #04918f;
   text-align: center;
 }
-img {
+#profile_pic {
     display: block;
     margin: auto;
+	height: 300px;
 }
 .navbar {
     display: block;
+	font-size: 2em;
+}
+
+.nav-link {
+	margin: 10px 20px;
 }
 
 #contact {
