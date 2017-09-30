@@ -35,6 +35,16 @@ p {
     font-size: 2em;
 }
 
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+.carousel-inner{
+overflow: visible;
+}
+
 .fa-facebook-square {
     color: #3B5998;
 }
