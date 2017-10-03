@@ -37,8 +37,7 @@ p {
 
 .carousel-caption {
     position: relative;
-    left: auto;
-    right: auto;
+    margin: auto;
 }
 
 .carousel-inner{
