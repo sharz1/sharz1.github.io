@@ -61,6 +61,60 @@ my-email::before {
     content: attr(data-user) "\0040";
 	
 	
+	
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.clearfix:after,
+.container:after,
+.Navbar:after {
+	clear: both;
+	display: table;
+	content: " ";
+}
+
+.wrap {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	/* This ensures that the images cannot 
+	   render outside of their container 
+	   without forcing any scrollbars*/
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	text-align: center;
+}
+
+.menu-container {
+	/*max-height: 340px;
+	margin: 0% auto;
+	content: " ";*/
+	top: 0;
+	left: 0; 
+	position: absolute; /*to the top edge of the screen */
+	/* width: 100%; */
+	position: fixed;
+	z-index: 100;
+	/*background-color: rgba(255, 255, 255, 0.5);*/	
+
+	
+	
 /*=======================================
   GALLERY SECTION ANIMATION
   =======================================*/
