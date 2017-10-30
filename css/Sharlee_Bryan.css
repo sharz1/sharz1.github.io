@@ -31,10 +31,13 @@ p {
 	margin: 10px 15px;
 }
 
+#projects a:hover {
+	border: 2px solid black;
+}
+
 #contact {
     font-size: 2em;
 }
-
 
 
 .fa-facebook-square {
