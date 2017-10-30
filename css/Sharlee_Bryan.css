@@ -31,7 +31,7 @@ p {
 	margin: 10px 15px;
 }
 
-#projects a:hover {
+#projects img:hover {
 	border: 2px solid black;
 }
 
